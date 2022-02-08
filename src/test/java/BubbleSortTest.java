@@ -1,6 +1,7 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.List;
+import logic.BubbleSort;
 import org.junit.jupiter.api.Test;
 
 class BubbleSortTest {
